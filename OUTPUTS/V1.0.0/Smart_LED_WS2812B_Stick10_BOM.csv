@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"LED10,LED9,LED8,LED7,LED6,LED5,LED4,LED3,LED2,LED1";"WS2812B LED";10;"WS2812B";;;
+2;"C10,C7,C6,C4,C9,C5,C1,C8,C3,C2";"0603C";10;"100n";;;
+3;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+4;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+5;"REF**";"Logo-Back-SolderedFULL-17mm";1;"Logo-Front-SolderedFULL-17mm";;;
+6;"PAD1,PAD6,PAD3,PAD5,PAD4,PAD2";"PAD_2x1.5";6;"PAD_2x1.5";;;
+7;"R1";"0603R";1;"100";;;
+8;"G***";"Logo-Front-Soldered-4mm";1;"LOGO";;;
+9;",,,,,,";"buzzardLabel";7;"";;;
+10;"H1,H2";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+11;"Ref**";"Version1.0.0.";1;"Val**";;;
