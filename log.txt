@@ -1,0 +1,1 @@
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Stick10/.git/
