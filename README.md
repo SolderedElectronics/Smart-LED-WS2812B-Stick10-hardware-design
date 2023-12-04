@@ -2,7 +2,7 @@
 
 ## About the product
 
-| ![Smart LED WS2812B Stick10](https://github.com/SolderedElectronics/Smart-LED-WS2812B-Stick10-hardware-design/blob/main/OUTPUTS/V1.1.1/333001.jpg?raw=true) |
+| ![Smart LED WS2812B Stick10](https://github.com/SolderedElectronics/Smart-LED-WS2812B-Stick10-hardware-design/blob/main/OUTPUTS/V1.0.0/333056.jpg?raw=true) |
 | :----------------------------------------------------------: |
 |      [Buy Smart LED WS2812B Stick10](https://www.solde.red/333056)      |
 
